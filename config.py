@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","CLASSYSPY")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Bosshubos")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABYMUSICXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "mayaa_musicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝘽𝘼𝘽𝙔 ✘ 𝙈𝙐𝙎𝙄𝘾")
+BOT_NAME = getenv("BOT_NAME" , "𝙈𝘼𝙔𝘼 ✘ 𝙈𝙐𝙎𝙄𝘾")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "BABYXMUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Bosshubos")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002069776570))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002061342152))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6343335143))
+OWNER_ID = int(getenv("OWNER_ID", 7404506441))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABYXMOVIES")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CHATSUPPORTY")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/devfeels0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dev_quiz_group0")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CHATSUPPORTY")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
